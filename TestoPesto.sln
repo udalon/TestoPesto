@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectingToDB", "ConnectingToDB\ConnectingToDB.csproj", "{EF756135-2A2F-43E2-8892-6A7FEFA1D8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestoPesto", "TestoPesto\TestoPesto.csproj", "{333F7CFB-E5A0-4CA3-8F87-3DDB6F914AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF756135-2A2F-43E2-8892-6A7FEFA1D8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF756135-2A2F-43E2-8892-6A7FEFA1D8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF756135-2A2F-43E2-8892-6A7FEFA1D8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF756135-2A2F-43E2-8892-6A7FEFA1D8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333F7CFB-E5A0-4CA3-8F87-3DDB6F914AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333F7CFB-E5A0-4CA3-8F87-3DDB6F914AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333F7CFB-E5A0-4CA3-8F87-3DDB6F914AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333F7CFB-E5A0-4CA3-8F87-3DDB6F914AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25025F95-5512-4C20-A232-2CAAC82A1C10}
+	EndGlobalSection
+EndGlobal

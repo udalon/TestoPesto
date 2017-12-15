@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <TimeToRun time="60"/>
+  <MIT url="" user="" pass=""  />
+  <TNG url="" user="" pass=""  />
+  <TNG1 url="" user="" pass=""  />
+  <TNG2 url="" user="" pass=""  />
+</Settings>
